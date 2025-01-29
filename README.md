@@ -1,4 +1,5 @@
 ![alt text](assets/spglitchbanner.gif)
+<img src="assets/spglitchbanner.gif" alt="GIF Banner" width="100%">
 
 # 💫 About Me:
 
