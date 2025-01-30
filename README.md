@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <table>
+  <table style="border:0;">
     <tr>
       <td>
         <p>💫 About Me:</p>
