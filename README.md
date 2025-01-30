@@ -1,5 +1,5 @@
 <div style="width:50%;">
-<img src="assets/spglitchbanner.gif" alt="GIF Banner" width="100%">
+<img src="assets/spglitchbanner.gif" alt="GIF Banner" width="50%">
 </div>
 
 <div align="center">
