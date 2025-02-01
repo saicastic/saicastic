@@ -1,3 +1,7 @@
+<div style="width:100%" height="200px">
+  <img src="assets/spglitchbanner.gif" width="100%" >
+</div>
+
 <div align="center" style="width: 100%;" >
   <table style="width: 100%;">
     <tr>
