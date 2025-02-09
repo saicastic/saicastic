@@ -4,6 +4,6 @@
   <img src="assets/spglitchbanner.gif" width="100%" height="200px" >
 </div>
 
-<div align="center">
+<div >
     <img src="https://skillicons.dev/icons?i=docker,git,github" />
 </div>
