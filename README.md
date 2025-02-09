@@ -5,5 +5,5 @@
 </div>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=docker" />
+    <img src="https://skillicons.dev/icons?i=docker,git,github" />
 </div>
